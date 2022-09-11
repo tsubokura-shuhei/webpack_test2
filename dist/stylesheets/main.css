@@ -1,3 +1,6 @@
-body{
+body {
   color: aqua;
+}
+body p {
+  color: red;
 }
